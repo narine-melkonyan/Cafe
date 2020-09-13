@@ -1,8 +1,5 @@
-package Cafe.Area;
+package cafe.area;
 
-import Cafe.Cafe;
-
-import java.io.PrintStream;
 import java.util.ArrayList;
 
 public class Zone {

@@ -1,4 +1,4 @@
-package Cafe.Area;
+package cafe.area;
 
 import java.util.ArrayList;
 
